@@ -53,7 +53,4 @@ We aim to identify best practices, propose new evaluation frameworks, and foster
 
 ## Contact {#contact}
 For questions, please contact the organizers:
-- [karthik@pienso.com](mailto:karthik@pienso.com)  
-- [jweisz@us.ibm.com](mailto:jweisz@us.ibm.com)  
-- [henry@csail.mit.edu](mailto:henry@csail.mit.edu)  
-- [werner.geyer@us.ibm.com](mailto:werner.geyer@us.ibm.com)
+- [agentcraft-iui@gmail.com](mailto:agentcraft-iui@gmail.com)  
