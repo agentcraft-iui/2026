@@ -11,15 +11,6 @@ plugins:
 color-scheme: auto
 favicon: false
 
-# Sidebar: add your social/profile links if desired
-platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/
-  - name: Email
-    icon: <i class="fa-solid fa-envelope"></i>
-    link: mailto:karthik@pienso.com
-
 # Navigation (left sidebar). Treat markdown pages as .html with section anchors.
 navigation:
   - name: Overview
