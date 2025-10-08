@@ -1,0 +1,8 @@
+[tasks.pre-build]
+description = "Install bundle dependencies"
+run = "bundle config set path 'vendor/bundle' && bundle install"
+
+[tasks.build]
+depends = ["pre-build"]
+description = "Build & serve the Jekyll site"
+run = "bundle exec jekyll serve --livereload --baseurl=\"\" --trace"
