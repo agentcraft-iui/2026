@@ -1,11 +1,19 @@
 title: "AgentCraft: Workshop on Agentic AI Systems Development"
-description: "Call for Papers · IUI 2026 · March 23–26, 2026 · Paphos, Cyprus"
+description: "IUI 2026 · March 23–26, 2026 · Paphos, Cyprus"
+
 # Use the Minimalistic theme via remote_theme (works on GitHub Pages)
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+remote_theme: https://github.com/vaibhavvikas/jekyll-theme-minimalistic
 
 # Required for remote themes on GitHub Pages
 plugins:
   - jekyll-remote-theme
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+  - mise.toml
 
 # Appearance
 color-scheme: auto
