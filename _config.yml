@@ -1,3 +1,8 @@
+# for github pages
+domain: agentcraft-iui.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://agentcraft-iui.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /2026/                        # place folder name if the site is served in a subfolder
+
 title: "AgentCraft"
 description: "IUI 2026 · March 23–26, 2026 · Paphos, Cyprus"
 
@@ -20,12 +25,13 @@ exclude:
 color-scheme: auto
 logo: /assets/img/agentcraft.png
 logo-description: "A yellow robot being painted in watercolor by a human hand. AIA Entirely AI, Human-initiated, Reviewed, DreamStudio v1.0 (https://aiattribution.github.io/statements/AIA-EAI-Hin-R-?model=DreamStudio-v1.0)"
-favicon: false
+favicon: true
+hide_project_page: true
 
 # Navigation (left sidebar). Treat markdown pages as .html with section anchors.
 navigation:
   - name: Home
-    link: /
+    link: ./
   - name: Call for Participation
     link: ./cfp
   - name: Organizers
