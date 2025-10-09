@@ -19,6 +19,7 @@ exclude:
 # Appearance
 color-scheme: auto
 logo: /assets/img/agentcraft.png
+logo-description: "A yellow robot being painted in watercolor by a human hand. AIA Entirely AI, Human-initiated, Reviewed, DreamStudio v1.0 (https://aiattribution.github.io/statements/AIA-EAI-Hin-R-?model=DreamStudio-v1.0)"
 favicon: false
 
 # Navigation (left sidebar). Treat markdown pages as .html with section anchors.
