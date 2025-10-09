@@ -35,7 +35,7 @@ We aim to build a community of researchers, developers, and designers spanning a
 
 ## Submissions {#submission-details}
 
-Submissions will take the form of **research or demo papers**, following CEUR publication guidelines. Please see the [Call for Participation](cfp/) for relevant topics and submission instructions.
+Submissions will take the form of **research or demo papers**, following CEUR publication guidelines. Please see the [Call for Participation](cfp) for relevant topics and submission instructions.
 
 ## Key Dates {#key-dates}
 
