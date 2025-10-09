@@ -82,6 +82,7 @@ AgentCraft 2026 is organized by:
 
 - Victor Dibia, Microsoft Research
 - Simret Gebreegziabher, Notre Dame University
+- Sebastian Gehrmann, Bloomberg
 - Harang Ju, Johns Hopkins University
 - Steve Ross, IBM Research
 - Daniel Karl Weidele, IBM Research
