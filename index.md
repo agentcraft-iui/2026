@@ -11,7 +11,7 @@ title: "AgentCraft Workshop at IUI 2026"
 
 <div class="card">
     <h4>Announcements</h4>
-    <p><strong>October 8, 2025</strong>. We are excited to host the first AgentCraft workshop at IUI 2026! Please check out our <a href="/cfp">Call for Participation</a> and submit your work by December 19!</p>
+    <p><strong>October 8, 2025</strong>. We are excited to host the first AgentCraft workshop at IUI 2026! Please check out our <a href="./cfp">Call for Participation</a> and submit your work by December 19!</p>
 </div>
 
 ## Overview {#workshop-overview}
