@@ -35,7 +35,7 @@ navigation:
   - name: Call for Participation
     link: ./cfp
   - name: Organizers
-    link: ./organizers#organizers
+    link: ./organizers
   - name: Program Committee
     link: ./organizers#program-committee
   - name: Contact
