@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img + em {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.card:hover {
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+}
+
+ul.key-dates {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.key-dates li {
+    margin-bottom: 0.5em;
+}
+
+div.headshot {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+div.headshot div {
+    padding-right: 1em;
+}
+
+div.headshot img {
+    border-radius: 100%;
+    max-width: 160px;
+}

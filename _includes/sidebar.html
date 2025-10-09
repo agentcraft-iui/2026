@@ -1,0 +1,33 @@
+<div class="link-wrapper">
+  {% if site.platforms %}
+  <ul class="link">
+    {%- for platform in site.platforms %}
+    <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
+    {%- endfor %}
+  </ul>
+  {% endif %}
+
+  {% if site.navigation %}
+  <ul class="content">
+  {%- for item in site.navigation %}
+    <li><a href="{{ item.link }}">{{ item.name }}</a>
+        {% if item.sublist %}
+        <ul class="sublist">
+            {%- for subitem in item.sublist %}
+            <li><a href="{{ subitem.link }}">{{ subitem.name }}</a></li>
+            {%- endfor %}
+        </ul>
+        {% endif %}
+    </li>
+  {%- endfor %}
+  </ul>
+  {% endif %}
+</div>
+
+<h4>Key Dates</h4>
+<ul class="key-dates">
+    <li><strong>December 19, 2025 AoE</strong>&nbsp;<a href="https://time.is/Anywhere_on_Earth" target="_blank"><i class="fa-solid fa-clock"></i></a><br />Submission deadline</li>
+    <li><strong>February 2, 2026</strong><br />Acceptance notifications</li>
+    <li><strong>February 16, 2026</strong><br />Camera-ready submissions</li>
+    <li><strong>March 23, 2026</strong><br />Workshop date</li>
+</ul>

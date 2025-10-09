@@ -1,4 +1,4 @@
-title: "AgentCraft: Workshop on Agentic AI Systems Development"
+title: "AgentCraft"
 description: "IUI 2026 · March 23–26, 2026 · Paphos, Cyprus"
 
 # Use the Minimalistic theme via remote_theme (works on GitHub Pages)
@@ -7,6 +7,7 @@ remote_theme: https://github.com/vaibhavvikas/jekyll-theme-minimalistic
 # Required for remote themes on GitHub Pages
 plugins:
   - jekyll-remote-theme
+  - jemoji
 
 exclude:
   - Gemfile
@@ -17,26 +18,21 @@ exclude:
 
 # Appearance
 color-scheme: auto
+logo: /assets/img/agentcraft.png
 favicon: false
 
 # Navigation (left sidebar). Treat markdown pages as .html with section anchors.
 navigation:
-  - name: Overview
-    link: ./index.html#workshop-overview
-  - name: Topics of Interest
-    link: ./index.html#topics-of-interest
-  - name: Submission
-    link: ./index.html#submission-details
-  - name: Important Dates
-    link: ./index.html#important-dates
-  - name: Workshop Format
-    link: ./index.html#workshop-format
+  - name: Home
+    link: /
+  - name: Call for Participation
+    link: ./cfp
   - name: Organizers
-    link: ./index.html#organizers
+    link: ./organizers#organizers
   - name: Program Committee
-    link: ./index.html#program-committee
+    link: ./organizers#program-committee
   - name: Contact
-    link: ./index.html#contact
+    link: ./organizers#contact
 
 # Optional: Google Analytics (replace with your ID if you have one)
 # google_analytics: G-XXXXXXXXXX
