@@ -88,6 +88,10 @@ AgentCraft 2026 is organized by:
 - Daniel Karl Weidele, IBM Research
 - Patrick Xian, Northeastern University
 - Zhiping Zhang, Northeastern University
+- Brian Cort, Pienso Inc
+- Arnav Nagpal, Pienso Inc
+- Sonia Wu, Pienso Inc
+- Mathew Maradin, Pienso Inc
 
 ## Contact {#contact}
 
