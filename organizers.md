@@ -81,6 +81,7 @@ AgentCraft 2026 is organized by:
 ## Program Committee {#program-committee}
 
 - Victor Dibia, Microsoft Research
+- Thariq Shihipar, Anthropic (Claude Code)
 - Simret Gebreegziabher, Notre Dame University
 - Sebastian Gehrmann, Bloomberg
 - Harang Ju, Johns Hopkins University
