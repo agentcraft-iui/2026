@@ -39,7 +39,7 @@ Submissions will take the form of **research or demo papers**, following CEUR pu
 
 ## Key Dates {#key-dates}
 
-- **Submission deadline:** December 19, 2025 AoE <a href="https://time.is/Anywhere_on_Earth" target="_blank"><i class="fa-solid fa-clock"></i></a>
+- **Submission deadline (EXTENDED):** January 16, 2026 AoE <a href="https://time.is/Anywhere_on_Earth" target="_blank"><i class="fa-solid fa-clock"></i></a>
 - **Acceptance notifications:** February 2, 2026
 - **Camera-ready submissions:** February 16, 2026
 - **Workshop date:** March 23, 2026
