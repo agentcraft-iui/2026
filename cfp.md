@@ -30,4 +30,4 @@ Accepted papers will be included in the CEUR proceedings. At least one author mu
 
 ## Submission Instructions {#submission-instructions}
 
-Please submit your work to EasyChair by <strong>December 19, 2025 AoE</strong>: [https://easychair.org/conferences/?conf=agentcraftiui2026](https://easychair.org/conferences/?conf=agentcraftiui2026)
+Please submit your work to EasyChair by <strong>January 16, 2026 AoE</strong>: [https://easychair.org/conferences/?conf=agentcraftiui2026](https://easychair.org/conferences/?conf=agentcraftiui2026)
