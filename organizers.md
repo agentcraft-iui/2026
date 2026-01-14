@@ -69,8 +69,8 @@ AgentCraft 2026 is organized by:
             <h3>Werner Geyer</h3>
             <p>IBM Research, USA</p>
             <p>
-                <a href="https://research.ibm.com/people/werner-geyer"><i class="fa-solid fa-lg fa-house"></i></a>
-                <a href="https://twitter.com/wernergeyer"><i class="fa-brands fa-lg fa-square-x-twitter"></i></a>
+                <a href="https://wernergeyer.com"><i class="fa-solid fa-lg fa-house"></i></a>
+                <a href="https://bsky.app/profile/wernergeyer.bsky.social"><i class="fa-brands fa-lg fa-bluesky"></i></a>
                 <a href="https://www.linkedin.com/in/wernergeyer"><i class="fa-brands fa-lg fa-square-linkedin"></i></a>
             </p>
         </div>
